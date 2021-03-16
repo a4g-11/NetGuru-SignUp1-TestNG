@@ -1,6 +1,6 @@
-# NetGuru-Login1-TestNG
+# NetGuru-SignUp1-TestNG
 
-Simple Login form. URL [Login Page](https://testyourlog.in/example/)
+Simple Login form. URL [Login Page](https://www.phptravels.net/login)
 
 Automation testing tools: Eclipse, Selenium, TestNG, Zephyr
 
