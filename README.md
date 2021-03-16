@@ -1,6 +1,6 @@
 # NetGuru-SignUp1-TestNG
 
-Simple Login form. URL [Login Page](https://www.phptravels.net/login)
+Simple Login form. URL [SignUp Page](https://www.phptravels.net/register)
 
 Automation testing tools: Eclipse, Selenium, TestNG, Zephyr
 
