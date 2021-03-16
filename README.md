@@ -8,6 +8,12 @@ Automation testing tools: Eclipse, Selenium, TestNG, Zephyr
 * Download Project Files From GitHub Repository
 * Run Test As TestNG Suite
 
+Comment: 
+- IMPORTANT!!! This form allows to RUN THIS TEST AUTOMATION ONLY ONE TIME time with email "tech150@mailpoof.com" for registration. 
+- When account created its not possible to delete. 
+- To run TEST AUTOMATION over again this for this test case email in the script should be changed to different (for example) "tech180@mailpoof.com"
+- Its possible to change number ### "tech###@mailpoof.com" to diferent value in the main javascript file and save it as TestNG Suite, then run this Test Automation over again.
+
 ## Setting Up Eclipse to RUN Test
 
 1. Install Eclipse 
