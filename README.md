@@ -11,7 +11,7 @@ Automation testing tools: Eclipse, Selenium, TestNG, Zephyr
 Comment: 
 - **IMPORTANT!!!** This form allows to **RUN THIS TEST AUTOMATION ONLY ONE TIME** with email "tech150@mailpoof.com" for registration. 
 - When account created its not possible to delete. 
-- To run **TEST AUTOMATION** over again this for this test case **email in the script should be changed to different** (for example) "tech180@mailpoof.com"
+- To run **TEST AUTOMATION** over again for this test case **email in the script should be changed to different** (for example) "tech180@mailpoof.com"
 - Its possible to change number ### "tech###@mailpoof.com" to diferent value in the main java file and save it as **TestNG Suite**, then run this Test Automation over again.
 
 ## Setting Up Eclipse to RUN Test
